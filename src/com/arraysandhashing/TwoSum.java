@@ -13,3 +13,7 @@ public class TwoSum  {
          return new int[]{0,0,};
     }
 }
+
+
+// Time Complexity:- O(n);
+// Space Complexity:- O(n)
