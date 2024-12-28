@@ -13,3 +13,7 @@ public class ContainsDuplicate {
 	        return false;
 	    }
 }
+
+
+//Time Commplexity is O(n)
+//Space Commplexity is O(n)
