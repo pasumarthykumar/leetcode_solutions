@@ -35,3 +35,6 @@ public class ValidAnagram {
 
     }
 }
+
+// Time Complexity is O(n)
+//Space Complexity is O(n)
