@@ -25,3 +25,6 @@ public class TopKFrequentElements {
         return a;
     }
 }
+
+//Time Complexity is O(n)
+// Space Complexity is O(n)
