@@ -20,3 +20,6 @@ public class MaximumSlidingWindow {
         return a;
     }
 }
+
+// Time Complexity is O(n*k)
+// Space Complexity is O(k)
