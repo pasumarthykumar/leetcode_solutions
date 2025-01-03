@@ -16,8 +16,7 @@ public class BestTimeToBuyAndSellStock {
 	                j++;
 	            }
 	        }
-	        return maxPrice;
-	        
+	        return maxPrice; 
 	    }
 	             
 }
