@@ -24,3 +24,6 @@ public class LongestRepeatingCharacterReplacement {
 	        return result;
 	    }
 	}
+
+// Time Complexity is O(s.length)
+// Space Complexity is O(1)
