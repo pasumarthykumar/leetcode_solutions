@@ -44,3 +44,5 @@ public class ReverseNodesinKGroup {
 	        return current;
 	    }
 	}
+// Time Complexity is O(n)
+// SPace Complexity is O(1)

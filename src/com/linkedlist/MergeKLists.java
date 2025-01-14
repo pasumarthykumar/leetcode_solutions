@@ -35,3 +35,6 @@ public class MergeKLists {
 	        return tempNode.next;
 	    }
 	}
+
+//Time Complexity is O(n*k)
+//SPace Complexity is O(1)
