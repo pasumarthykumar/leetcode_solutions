@@ -22,3 +22,5 @@ public class GenerateParentheses {
 	        return;
 	    }
 	}
+
+// Time 
