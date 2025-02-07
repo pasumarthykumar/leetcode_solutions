@@ -80,3 +80,6 @@ public class SolveNQueens {
 	        return true;
 	    }
 	}
+
+//Time Complexity is O(n^n)
+// Space Complex
