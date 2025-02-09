@@ -2,7 +2,7 @@ package dynamicprogramming;
 import java.util.*;
 
 public class coinChange {
-	    public int coinChange(int[] coins, int amount) {
+	    public int coinChangeSolution(int[] coins, int amount) {
 	        int [][]dp=new int[coins.length][amount+1];
 	        for(int i=0;i<coins.length;i++){
 	            for(int j=0;j<amount+1;j++){
