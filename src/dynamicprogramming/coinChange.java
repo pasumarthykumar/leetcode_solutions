@@ -1,5 +1,4 @@
 package dynamicprogramming;
-import java.util.*;
 
 public class coinChange {
 	    public int coinChangeSolution(int[] coins, int amount) {
